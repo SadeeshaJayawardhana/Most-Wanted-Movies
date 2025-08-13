@@ -1,7 +1,5 @@
 # 🎬 Most Wanted Movies – Movie Rental & Review Platform
-
-A web-based Movie Rental and Review Platform that allows users to browse, rent, download, and review movies dynamically. This application serves both movie lovers and administrators with a complete movie management solution.
----
+A web-based Movie Rental and Review Platform that allows users to browse, rent, download, and review movies dynamically. This application serves both movie enthusiasts and administrators with a complete movie catalog, rental, and review management solution.
 ## 🎯 Project Overview
 
 Most Wanted Movies is a lightweight yet feature-rich web platform built with Java, JSP, and Servlets that allows users to browse, rent, download, and review movies. It uses plain text files for data storage — showcasing how powerful applications can be developed even without a traditional database.
